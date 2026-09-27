@@ -72,4 +72,6 @@ Automated tests use fake Telegram clients and cover parsing, episode grouping, r
 
 ## Project status
 
-Personal early beta. No open-source licence has been selected yet. Keep this repository private until its owner selects a licence and completes a public-release review.
+Personal early beta, released under the MIT licence. See [LICENSE](LICENSE). Bug reports and suggestions are welcome through GitHub Issues; see [CONTRIBUTING.md](CONTRIBUTING.md).
+
+This repository contains source code. No prebuilt APK release is currently supplied; use the build instructions above. You must provide your own Telegram account and media sources.
