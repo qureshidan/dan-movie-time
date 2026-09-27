@@ -1,0 +1,12 @@
+.venv/
+private/
+__pycache__/
+*.pyc
+*.session*
+.env*
+*.log
+*.p12
+*.jks
+*.keystore
+android/build/
+dist/
